@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> خذني إليك في هذا المساء
+> نار الشوق تحرق هذا الفضاء
+> أريد لمستك تذيب الجليد
+> ونحيا معاً في غرام فريد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
