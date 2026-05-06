@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tareeqk-fady/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Tareeqk Fady](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Tareeqk Fady](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
